@@ -1,0 +1,7 @@
+LIBRARY TWOSIMPLEMOVINGAVERAGES
+
+EXPORTS Init
+	Calculate
+	ReplaceStr
+	IntrfProcsRec
+	OnParamsChange
